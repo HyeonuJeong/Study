@@ -1,0 +1,10 @@
+C:\Users\jeong\Desktop\계산기\계산기\bin\Debug\계산기.exe.config
+C:\Users\jeong\Desktop\계산기\계산기\bin\Debug\계산기.exe
+C:\Users\jeong\Desktop\계산기\계산기\bin\Debug\계산기.pdb
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.csprojAssemblyReference.cache
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.frmCalculator.resources
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.Properties.Resources.resources
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.csproj.GenerateResource.cache
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.exe
+C:\Users\jeong\Desktop\계산기\계산기\obj\Debug\계산기.pdb
