@@ -1,2 +1,2 @@
 # Study
-only pracitce
+practice
